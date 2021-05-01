@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Projekt_PRM2T:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Projekt_PRM2T_jar</output-path>
+    <root id="archive" name="Projekt_PRM2T.jar" />
+  </artifact>
+</component>
